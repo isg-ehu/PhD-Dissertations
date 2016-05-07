@@ -39,7 +39,7 @@ By Ceberio, Josu
 
 Supervised by Jose A. Lozano and Alexander Mendiburu	
 
-[Document]
+[Document](https://github.com/isg-ehu/PhD-Dissertations/raw/master/2014_phd_josu_ceberio.pdf)
 
 
 #### Sampling and Learning Distance-Based Probability Models for Permutation Spaces
@@ -47,7 +47,7 @@ By Irurozki, Ekhiñe
 
 Supervised by Borja Calvo and Jose A. Lozano	
 
-[Document]
+[Document](https://github.com/isg-ehu/PhD-Dissertations/raw/master/2014_phd_ekhine_irurozki.pdf)
 
 
 # 2013
@@ -55,9 +55,9 @@ Supervised by Borja Calvo and Jose A. Lozano
 #### Tools for the realistic evaluation of parallel computing systems
 By Francisco Javier Ridruejo
 
-Supervised by Navaridas, Javier	, José Miguel-Alonso	
+Supervised by Javier Navaridas and José Miguel-Alonso	
 
-[Document]
+[Document](https://github.com/isg-ehu/PhD-Dissertations/raw/master/2013_phd_javier_ridruejo.pdf)
 
 
 #### Mechanisms and Techniques for Scheduling in Supercomputers
@@ -65,14 +65,15 @@ By Pascual, Jose Antonio
 
 José Miguel-Alonso and Jose A. Lozano	
 
-[Document]
+[Document](https://github.com/isg-ehu/PhD-Dissertations/raw/master/2013_phd_jose_a_pacual.pdf)
+
 
 #### Advances in Error Estimation and Multi-Dimensional Supervised Classification
 By Rodríguez, Juan Diego
 
 Supervised by Jose A. Lozano and Aritz Pérez	
 
-[Document]
+[Document](https://github.com/isg-ehu/PhD-Dissertations/raw/master/2013_phd_juan_d_rodriguez.pdf)
 
 
 
@@ -83,7 +84,7 @@ By Echegoyen, Carlos
 
 Supervised by Jose A. Lozano, Alexander Mendiburu and Roberto Santana	
 
-[Document]
+[Document](https://github.com/isg-ehu/PhD-Dissertations/raw/master/2012_phd_carlos_echegoyen.pdf)
 
 
 # 2011
@@ -93,7 +94,7 @@ By Fernandes, Jose Antonio
 
 Supervised by Jose A. Lozano and Iñaki Inza	
 
-[Document]
+[Document](https://github.com/isg-ehu/PhD-Dissertations/raw/master/2011_phd_jose_a_fernandes.pdf)
 
 
 # 2010
@@ -103,7 +104,7 @@ By Teres Miquélez
 
 Supervised by Pedro Larrañaga and Endika Bengoetxea	
 
-[Document]
+[Document](https://github.com/isg-ehu/PhD-Dissertations/raw/master/2010_phd_teresa_miquelez.pdf)
 
 
 #### Supervised Classification in Continuous Domains with Bayesian Networks
@@ -111,7 +112,7 @@ By Aritz Pérez
 
 Supervised by Pedro Larrañaga and Iñaki Inza	
 
-[Document]
+[Document](https://github.com/isg-ehu/PhD-Dissertations/raw/master/2010_phd_aritz_perez.pdf)
 
 
 # 2009
@@ -121,7 +122,7 @@ By Javier Navaridas
 
 José Miguel-Alonso	
 
-[Document]
+[Document](https://github.com/isg-ehu/PhD-Dissertations/raw/master/2009_phd_javier_navaridas.pdf)
 
 
 #### Consensus Policies to Solve Bioinformatic Problems Through Bayesian Network Classifiers and Estimation of Distribution Algorithms
@@ -129,14 +130,15 @@ By Rubén Armañanzas
 
 Supervised by Pedro Larrañaga and Iñaki Inza	
 
-[Document]
+[Document](https://github.com/isg-ehu/PhD-Dissertations/raw/master/2009_phd_ruben_armananzas.pdf)
 
 
 #### Clasificadores Bayesianos en la selección Embrionaria en Tratamientos de Reproducción Asistida
 By Dinora Morales
 
 Supervised by Endika Bengoetxea and Pedro Larrañaga	
-[Document]
+
+[Document](https://github.com/isg-ehu/PhD-Dissertations/raw/master/2009_phd_dinora_morales.pdf)
 
 
 # 2008
@@ -146,7 +148,7 @@ By Borja Calvo
 
 Supervised by Jose A. Lozano and Pedro Larrañaga	
 
-[Document]
+[Document](https://github.com/isg-ehu/PhD-Dissertations/raw/master/2008_phd_borja_calvo.pdf)
 
 
 #### Advances on Supervised and Unsupervised Learning of Bayesian Network Models. Application to Population Genetics
@@ -154,7 +156,7 @@ By Guzmán Santafé
 
 Supervised by Jose A. Lozano and Pedro Larrañaga	
 
-[Document]
+[Document](https://github.com/isg-ehu/PhD-Dissertations/raw/master/2008_phd_guzman_santafe.pdf)
 
 
 # 2007 
@@ -164,7 +166,7 @@ By Txomin Romero
 
 Supervised by Pedro Larrañaga
 
-[Document]
+[Document](https://github.com/isg-ehu/PhD-Dissertations/raw/master/2007_phd_txomin_romero.pdf)
 
 
 #### An Optimization Approach for Software Test Data Generation: Applications of Estimation of Distribution Algorithms and Scatter Search
@@ -172,7 +174,7 @@ By Ramón Sagarna
 
 Supervised by Jose A. Lozano	
 
-[Document]
+[Document](https://github.com/isg-ehu/PhD-Dissertations/raw/master/2007_phd_ramon_sagarna.pdf)
 
 
 # 2006
@@ -182,7 +184,7 @@ By Alexander Mendiburu
 
 Supervised by José Miguel-Alonso and Jose A. Lozano	
 
-[Document]
+[Document](https://github.com/isg-ehu/PhD-Dissertations/raw/master/2006_phd_alexander_mendiburu.pdf)
 
 
 #### Advances in Probabilistic Graphical Models for Optimization and Learning Applications in Protein Modelling
@@ -190,7 +192,7 @@ By Roberto Santana
 
 Supervised by Jose A. Lozano and Pedro Larrañaga	
 
-[Document]
+[Document](https://github.com/isg-ehu/PhD-Dissertations/raw/master/2006_phd_roberto_santana.pdf)
 
 
 #### Contributions on Theoretical Aspects of Estimation of Distribution Algorithms
@@ -198,7 +200,7 @@ By Christina Gonzalez
 
 Supervised by Jose A. Lozano	
 
-[Document]
+[Document](https://github.com/isg-ehu/PhD-Dissertations/raw/master/2006_phd_cristina_gonzalez.pdf)
 
 
 # 2005
@@ -208,7 +210,7 @@ By Rosa Blanco
 
 Supervised by Iñaki Inza and Pedro Larrañaga	
 
-[Document]
+[Document](https://github.com/isg-ehu/PhD-Dissertations/raw/master/2005_phd_rosa_blanco.pdf)
 
 
 # 2002
@@ -218,7 +220,7 @@ By Endika Bengoetxea
 
 Supervised by Pedro Larrañaga and Isabelle Bloch
 
-[Document]
+[Document](https://github.com/isg-ehu/PhD-Dissertations/raw/master/2002_phd_endika_bengoetxea.pdf)
 
 
 #### Advances in Supervised Classification based on Probabilistic Graphical Models
@@ -226,7 +228,7 @@ By Iñaki Inza
 
 Supervised by Pedro Larrañaga	
 
-[Document]
+[Document](https://github.com/isg-ehu/PhD-Dissertations/raw/master/2002_phd_inaki_inza.pdf)
 
 
 # 2000
@@ -236,7 +238,7 @@ By Basilio Sierra
 
 Supervised by Pedro Larrañaga	
 
-[Document]
+[Document](https://github.com/isg-ehu/PhD-Dissertations/raw/master/2000_phd_basilio_sierra.pdf)
 
 
 # 1998 
@@ -246,7 +248,7 @@ By Jose A. Lozano
 
 Supervised by Pedro Larrañaga	
 
-[Document]
+[Document](https://github.com/isg-ehu/PhD-Dissertations/raw/master/1998_phd_jose_a_lozano.pdf)
 
 
 # 1995
@@ -256,4 +258,4 @@ By Pedro Larrañaga
 
 Supervised by Yosu Yurramendi
 
-[Document]
+[Document](https://github.com/isg-ehu/PhD-Dissertations/raw/master/1995_phd_pedro_larrañaga.pdf)
