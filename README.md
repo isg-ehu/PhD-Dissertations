@@ -28,7 +28,7 @@ By Carlos Pérez-Miguel
 
 Supervised by José Miguel-Alonso and Alexander Mendiburu	
 
-[Document](https://github.com/isg-ehu/PhD-Dissertations/raw/master/2015_phd_carlos_perez-miguel.pdf)
+[Document](https://github.com/isg-ehu/PhD-Dissertations/raw/master/2015-phd_carlos_perez-miguel.pdf)
 
 
 #### Instances of Combinatorial Optimization Problems: Complexity and Generation
