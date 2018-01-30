@@ -265,4 +265,4 @@ By Pedro Larrañaga
 
 Supervised by Yosu Yurramendi
 
-[Document](https://github.com/isg-ehu/PhD-Dissertations/raw/master/1995_phd_pedro_larrañaga.pdf)
+[Document](https://github.com/isg-ehu/PhD-Dissertations/raw/master/1995_phd_pedro_larrañaga.ps)
